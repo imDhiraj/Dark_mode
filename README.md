@@ -13,14 +13,11 @@ This Android application showcases the implementation of light and dark mode the
 
 ## Screenshots
 
-### Light Mode
+### Light Mode                                                                                               ### Dark Mode   
 
-![light mode](https://github.com/imDhiraj/Dark_mode/assets/93609511/a2fce683-d721-4a5e-a56d-cfef07495813)
+![light mode](https://github.com/imDhiraj/Dark_mode/assets/93609511/a2fce683-d721-4a5e-a56d-cfef07495813)    ![dark mode](https://github.com/imDhiraj/Dark_mode/assets/93609511/4f6443b7-a386-467f-8ffe-bf062e5f5728)
 
 
-### Dark Mode
-
-![dark mode](https://github.com/imDhiraj/Dark_mode/assets/93609511/4f6443b7-a386-467f-8ffe-bf062e5f5728)
 
 ## Installation
 
