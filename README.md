@@ -11,13 +11,15 @@ This Android application showcases the implementation of light and dark mode the
 - **Consistent UI**: Ensures that all UI elements are properly themed in both modes.
 - **Persistent Theme State**: Remembers the user's theme preference even after the app is closed and reopened.
 
+
+
 ## Screenshots
 
-### Light Mode                                                                                               ### Dark Mode   
-
-![light mode](https://github.com/imDhiraj/Dark_mode/assets/93609511/a2fce683-d721-4a5e-a56d-cfef07495813)    ![dark mode](https://github.com/imDhiraj/Dark_mode/assets/93609511/4f6443b7-a386-467f-8ffe-bf062e5f5728)
-
-
+<p align="center">
+  <img src="https://github.com/imDhiraj/Dark_mode/assets/93609511/a2fce683-d721-4a5e-a56d-cfef07495813" alt="Light Mode" width="45%" style="margin-right: 20px;"  />
+   
+  <img src="https://github.com/imDhiraj/Dark_mode/assets/93609511/4f6443b7-a386-467f-8ffe-bf062e5f5728" alt="Dark Mode" width="45%" />
+</p>
 
 ## Installation
 
