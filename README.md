@@ -1,4 +1,3 @@
-# Dark_mode
 # Light and Dark Mode Android Application
 
 ## Overview
